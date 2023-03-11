@@ -1,8 +1,7 @@
-# news-portal-assignemnt
-Please create yoru private repo 
-## [https://classroom.github.com/a/PZ8KfL5q](https://classroom.github.com/a/PZ8KfL5q)
+# news-portal-project
 
-### Private Repo Link: [https://classroom.github.com/a/PZ8KfL5q](https://classroom.github.com/a/PZ8KfL5q)
+
+### LiveLink: [https://rajib-sadhu.github.io/news-portal/](https://rajib-sadhu.github.io/news-portal/)
 
 
 ----------------
